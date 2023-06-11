@@ -83,7 +83,6 @@ nav ul li a:hover {
 
 .h2{
     font-family: "Open Sans";
-    font-family: "Open Sans";
     position: absolute;
     width: 80%;
     text-align: center;
@@ -92,6 +91,18 @@ nav ul li a:hover {
     font-size: 110px;
     color: rgb(rgb(65, 2, 2), green, blue);
     /* opacity: 0.8; */
+}
+
+.body p{
+    font-family: "Open Sans";
+    position: absolute;
+    width: 77.8%;
+    text-align: justify;
+    height: auto;
+    top: 230px;
+    left: 265px;
+    font-size: 50px;
+    color: rgb(rgb(65, 2, 2), green, blue);    
 }
 
 footer{
